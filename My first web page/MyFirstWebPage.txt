@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Yamin</title>
+</head>
+<body>
+<form>
+Username: <input type="text" placeholder="Username@example.com" required>
+<p>Stay logged in <input type="checkbox" checked></p>
+<p>Under 18: <input type="radio" name="age" value="u18" checked></p>
+<p>Over 18: <input type="radio" name="age" value="o18"></p>
+<p>My favourite: <select>
+<option>Ice cream</option>
+<option selected>Sandwich</option>
+<option>Burger</option>
+</select></p>
+<input type="submit" value="Click me once you finish">
+</form>
+</body>
+</html>
